@@ -1,92 +1,92 @@
 {
-  "HOME_URL":"http://m.jjxsw.com/",
+  "HOME_URL":"http://m.txt99.com/",
   "SECTION_DATA":[
     {
       "code":"zongcai",
       "name":"总裁",
-      "url":"http://m.jjxsw.com/txt/Qinggan/"
+      "url":"http://m.txt99.com/txt/Qinggan/"
     },
     {
       "code":"wuxia",
       "name":"武侠修仙",
-      "url":"http://m.jjxsw.com/txt/Wuxia/"
+      "url":"http://m.txt99.com/txt/Wuxia/"
     },
     {
       "code":"chuanyue",
       "name":"穿越",
-      "url":"http://m.jjxsw.com/txt/Chuanyue/"
+      "url":"http://m.txt99.com/txt/Chuanyue/"
     },
     {
       "code":"xuanhuan",
       "name":"玄幻",
-      "url":"http://m.jjxsw.com/txt/Xuanhuan/"
+      "url":"http://m.txt99.com/txt/Xuanhuan/"
     },
     {
       "code":"lishijiakong",
       "name":"历史架空",
-      "url":"http://m.jjxsw.com/txt/Lsjs/"
+      "url":"http://m.txt99.com/txt/Lsjs/"
     },
     {
       "code":"yanqing",
       "name":"青春言情",
-      "url":"http://m.jjxsw.com/txt/Young/"
+      "url":"http://m.txt99.com/txt/Young/"
     },
     {
       "code":"danmei",
       "name":"耽美",
-      "url":"http://m.jjxsw.com/txt/dmtr/"
+      "url":"http://m.txt99.com/txt/dmtr/"
     },
     {
       "code":"dushi",
       "name":"网游小说",
-      "url":"http://m.jjxsw.com/txt/Juben/"
+      "url":"http://m.txt99.com/txt/Juben/"
     },
     {
       "code":"dushi",
       "name":"都市",
-      "url":"http://m.jjxsw.com/txt/dushi/"
+      "url":"http://m.txt99.com/txt/dushi/"
     },
     {
       "code":"jingsong",
       "name":"惊悚悬疑",
-      "url":"http://m.jjxsw.com/txt/Kongbu/"
+      "url":"http://m.txt99.com/txt/Kongbu/"
     },
     {
       "code":"chongsheng",
       "name":"重生小说",
-      "url":"http://m.jjxsw.com/txt/chongshengxiaoshuo/"
+      "url":"http://m.txt99.com/txt/chongshengxiaoshuo/"
     },
     {
       "code":"lishijunshi",
       "name":"历史军事",
-      "url":"http://m.jjxsw.com/txt/tiexue/"
+      "url":"http://m.txt99.com/txt/tiexue/"
     },
     {
       "code":"yulequn",
       "name":"娱乐圈",
-      "url":"http://m.jjxsw.com/t/yulequan/"
+      "url":"http://m.txt99.com/t/yulequan/"
     },
     {
       "code":"zhongqian",
       "name":"种田",
-      "url":"http://m.jjxsw.com/t/zhongtian/"
+      "url":"http://m.txt99.com/t/zhongtian/"
     },
     {
       "code":"junwen",
       "name":"军文",
-      "url":"http://m.jjxsw.com/t/junwen/"
+      "url":"http://m.txt99.com/t/junwen/"
     },
     {
       "code":"gaogan",
       "name":"高干",
-      "url":"http://m.jjxsw.com/t/gaogan/"
+      "url":"http://m.txt99.com/t/gaogan/"
     }
   ],
-  "SECTION_NEXT_PAGE_URL_PREFIX":"http://m.jjxsw.com/",
+  "SECTION_NEXT_PAGE_URL_PREFIX":"http://m.txt99.com/",
   "SECTION_SELECTOR_OF_NEXT_PAGE_URL_ELEMENT":"a:contains(下一页)",
   "SECTION_SELECTOR_OF_BOOK_LIST_ELEMENT":"div.booklist_a>ul",
   "SECTION_SELECTOR_OF_BOOK_TITLE_ELEMENT":".main>a",
-  "SECTION_BOOK_DETAIL_PAGE_URL_PREFIX":"http://m.jjxsw.com/",
+  "SECTION_BOOK_DETAIL_PAGE_URL_PREFIX":"http://m.txt99.com/",
   "SECTION_SELECTOR_OF_BOOK_DETAIL_PAGE_URL_ELEMENT":".main>a",
   "SECTION_SELECTOR_OF_BOOK_DESCRIPTION_ELEMENT":"#content",
   "SECTION_SELECTOR_OF_BOOK_AUTHOR_ELEMENT":"span:contains(作者)",
@@ -94,51 +94,51 @@
   "SECTION_SELECTOR_OF_BOOK_SIZE_ELEMENT":"span:contains(大小)",
   "SECTION_SELECTOR_OF_BOOK_TIME_ELEMENT":"span:contains(时间)",
   "SECTION_SELECTOR_OF_BOOK_IMG_URL_ELEMENT":".pic>img",
-  "SECTION_BOOK_DOWNLOAD_URL_PREFIX":"http://m.jjxsw.com/",
+  "SECTION_BOOK_DOWNLOAD_URL_PREFIX":"http://m.txt99.com/",
   "SECTION_SELECTOR_OF_BOOK_DOWNLOAD_REDIRECT_PAGES_URL_ELEMENT":["a:contains(下载TXT电子书)","a:contains(txt电子书下载地址【②线路】)"],
 
   "TOP_DATA":[
     {
       "code":"best",
       "name":"小编推荐",
-      "url":"http://m.jjxsw.com/txt/best/"
+      "url":"http://m.txt99.com/txt/best/"
     },
     {
       "code":"nvsheng",
       "name":"女生",
-      "url":"http://m.jjxsw.com/txt/"
+      "url":"http://m.txt99.com/txt/"
     },
     {
       "code":"nansheng",
       "name":"男生",
-      "url":"http://m.jjxsw.com/txt/hot/nanshengxiaoshuo/"
+      "url":"http://m.txt99.com/txt/hot/nanshengxiaoshuo/"
     },
     {
       "code":"yue",
       "name":"月榜单",
-      "url":"http://m.jjxsw.com/txt/hot/m/"
+      "url":"http://m.txt99.com/txt/hot/m/"
     },
     {
       "code":"zhou",
       "name":"周榜单",
-      "url":"http://m.jjxsw.com/txt/hot/w/"
+      "url":"http://m.txt99.com/txt/hot/w/"
     },
     {
       "code":"danmeipai",
       "name":"耽美排行",
-      "url":"http://m.jjxsw.com/txt/hot/danmeixiaoshuo/"
+      "url":"http://m.txt99.com/txt/hot/danmeixiaoshuo/"
     },
     {
       "code":"new",
       "name":"最新",
-      "url":"http://m.jjxsw.com/txt/new/"
+      "url":"http://m.txt99.com/txt/new/"
     }
   ],
-  "TOP_NEXT_PAGE_URL_PREFIX":"http://m.jjxsw.com/",
+  "TOP_NEXT_PAGE_URL_PREFIX":"http://m.txt99.com/",
   "TOP_SELECTOR_OF_NEXT_PAGE_URL_ELEMENT":"a:contains(下一页)",
   "TOP_SELECTOR_OF_BOOK_LIST_ELEMENT":"div.toplist>ul",
   "TOP_SELECTOR_OF_BOOK_TITLE_ELEMENT":"a",
-  "TOP_BOOK_DETAIL_PAGE_URL_PREFIX":"http://m.jjxsw.com/",
+  "TOP_BOOK_DETAIL_PAGE_URL_PREFIX":"http://m.txt99.com/",
   "TOP_SELECTOR_OF_BOOK_DETAIL_PAGE_URL_ELEMENT":"a",
   "TOP_SELECTOR_OF_BOOK_DESCRIPTION_ELEMENT":"#content",
   "TOP_SELECTOR_OF_BOOK_AUTHOR_ELEMENT":"span:contains(作者)",
@@ -146,7 +146,7 @@
   "TOP_SELECTOR_OF_BOOK_SIZE_ELEMENT":"span:contains(大小)",
   "TOP_SELECTOR_OF_BOOK_TIME_ELEMENT":"span:contains(时间)",
   "TOP_SELECTOR_OF_BOOK_IMG_URL_ELEMENT":".pic>img",
-  "TOP_BOOK_DOWNLOAD_URL_PREFIX":"http://m.jjxsw.com/",
+  "TOP_BOOK_DOWNLOAD_URL_PREFIX":"http://m.txt99.com/",
   "TOP_SELECTOR_OF_BOOK_DOWNLOAD_REDIRECT_PAGES_URL_ELEMENT":["a:contains(下载TXT电子书)","a:contains(txt电子书下载地址【②线路】)"],
 
   "SEARCH_PAGE_URL":"http://m.txt99.com/e/search/index.php",
