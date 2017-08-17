@@ -149,14 +149,14 @@
   "TOP_BOOK_DOWNLOAD_URL_PREFIX":"http://m.jjxsw.com/",
   "TOP_SELECTOR_OF_BOOK_DOWNLOAD_REDIRECT_PAGES_URL_ELEMENT":["a:contains(下载TXT电子书)","a:contains(txt电子书下载地址【②线路】)"],
 
-  "SEARCH_PAGE_URL":"http://m.jjxsw.com/e/search/index.php",
+  "SEARCH_PAGE_URL":"http://m.txt99.com/e/search/index.php",
   "SEARCH_POST_MAP_KEY":["keyboard","show","Submit22"],
   "SEARCH_POST_MAP_VALUE":["","title","搜索"],
-  "SEARCH_NEXT_PAGE_URL_PREFIX":"http://m.jjxsw.com/",
+  "SEARCH_NEXT_PAGE_URL_PREFIX":"http://m.txt99.com/",
   "SEARCH_SELECTOR_OF_NEXT_PAGE_URL_ELEMENT":"a:contains(下一页)",
   "SEARCH_SELECTOR_OF_BOOK_LIST_ELEMENT":"div.booklist_a>ul",
   "SEARCH_SELECTOR_OF_BOOK_TITLE_ELEMENT":".main>a",
-  "SEARCH_BOOK_DETAIL_PAGE_URL_PREFIX":"http://m.jjxsw.com/",
+  "SEARCH_BOOK_DETAIL_PAGE_URL_PREFIX":"http://m.txt99.com/",
   "SEARCH_SELECTOR_OF_BOOK_DETAIL_PAGE_URL_ELEMENT":".main>a",
   "SEARCH_SELECTOR_OF_BOOK_DESCRIPTION_ELEMENT":"#content",
   "SEARCH_SELECTOR_OF_BOOK_AUTHOR_ELEMENT":"span:contains(作者)",
@@ -164,7 +164,7 @@
   "SEARCH_SELECTOR_OF_BOOK_SIZE_ELEMENT":"span:contains(大小)",
   "SEARCH_SELECTOR_OF_BOOK_TIME_ELEMENT":"span:contains(时间)",
   "SEARCH_SELECTOR_OF_BOOK_IMG_URL_ELEMENT":".pic>img",
-  "SEARCH_BOOK_DOWNLOAD_URL_PREFIX":"http://m.jjxsw.com/",
+  "SEARCH_BOOK_DOWNLOAD_URL_PREFIX":"http://m.txt99.com/",
   "SEARCH_SELECTOR_OF_BOOK_DOWNLOAD_REDIRECT_PAGES_URL_ELEMENT":["a:contains(下载TXT电子书)","a:contains(txt电子书下载地址【②线路】)"]
 }
 
