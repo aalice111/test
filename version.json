@@ -1,5 +1,7 @@
 {
-  "VERSION_CODE_IN_STORE":6
+  "VERSION_CODE_IN_STORE":6,
+  "VERSION_NAME_IN_STORE":"2.1",
+  "VERSION_UPDATE_DESCRIPTIONS":["1. 增加按作者搜索功能","2. 优化网络连接速度","3. 只加载一次图片，优化流量使用", "4. 修复部分手机的崩溃问题"]
 }
 
 
