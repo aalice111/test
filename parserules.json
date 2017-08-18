@@ -152,6 +152,7 @@
   "SEARCH_PAGE_URL":"http://m.jjxsw.com/e/search/index.php",
   "SEARCH_POST_MAP_KEY":["keyboard","show","Submit22"],
   "SEARCH_POST_MAP_VALUE":["","title","搜索"],
+  "SEARCH_POST_MAP_OPTIONS_VALUE":["title", "writer"],
   "SEARCH_NEXT_PAGE_URL_PREFIX":"http://m.jjxsw.com/",
   "SEARCH_SELECTOR_OF_NEXT_PAGE_URL_ELEMENT":"a:contains(下一页)",
   "SEARCH_SELECTOR_OF_BOOK_LIST_ELEMENT":"div.booklist_a>ul",
